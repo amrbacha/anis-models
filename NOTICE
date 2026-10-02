@@ -1,0 +1,6 @@
+whisper-base-ar-quran
+Original model by Tarteel AI: https://huggingface.co/tarteel-ai/whisper-base-ar-quran
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+ggml-whisper-base-ar-quran-q8_0.bin is that model converted to whisper.cpp's
+ggml format and quantised to q8_0. The weights were not otherwise changed.
